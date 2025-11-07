@@ -1,0 +1,12 @@
+# CodeVerse Question File
+# Format: TYPE|PROMPT|ANSWER
+
+SYNTAX|Which keyword is used to inherit a class in Java?|extends
+SYNTAX|Which method is the entry point in Java?|main
+SYNTAX|Which keyword creates an object?|new
+SYNTAX|What does JVM stand for?|java virtual machine|jvm
+LOGIC|If x=5, what is x++ + ++x?|12
+LOGIC|Which loop executes at least once?|do while|do-while
+LOGIC|If an array has 5 elements, last index is?|4
+LOGIC|Output of System.out.println(2 + 3 + "4");|54
+LOGIC|Size of int in Java?|4
