@@ -64,13 +64,7 @@ Client displays them to the user.
 ### **3. Client submits answers**
 
 ### **4. Server calculates score**  
-Returns:
 
-```json
-{
-  "score": 8,
-  "total": 10
-}
 
 git clone https://github.com/MadhavK3/mcq_client.git
 git clone https://github.com/MadhavK3/mcq_server.git
@@ -98,9 +92,9 @@ Planned improvements and features to be implemented in future releases:
 
 | Name     | PRN |
 |----------|-----:|
-| Om       |  001 |
-| Atharva  |  009 |
-| Madhav   |  023 |
+| Om       |   124B1F001 |
+| Atharva  |  124B1F009 |
+| Madhav   |  124B1F023 |
 
 ---
 
